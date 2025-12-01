@@ -49,13 +49,13 @@ A colaboração com IA permitiu acelerar o desenvolvimento e garantir qualidade 
 ## 🖼️ Interface da Aplicação
 
 ### Tela Principal
-![Tela inicial mostrando seleção de arquivo e campo para adicionar colunas]
+![Tela inicial mostrando seleção de arquivo e campo para adicionar colunas](https://github.com/irlan24/conversor-excel-tamanho-fixo/blob/main/pack_img/tela_inicial.png)
 
 ### Configuração de Colunas
-![Lista de colunas configuradas com opções de ordenação e remoção]
+![Lista de colunas configuradas com opções de ordenação e remoção](https://github.com/irlan24/conversor-excel-tamanho-fixo/blob/main/pack_img/colunas_configuradas.png)
 
 ### Resultado da Conversão
-![Mensagem de sucesso com informações do arquivo gerado]
+![Mensagem de sucesso com informações do arquivo gerado](https://github.com/irlan24/conversor-excel-tamanho-fixo/blob/main/pack_img/mensagem_sucesso.png)
 
 ---
 
